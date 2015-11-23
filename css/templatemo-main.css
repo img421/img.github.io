@@ -75,9 +75,6 @@ a {
   transition: all 0.2s ease-in-out;
    color:white;
 }
-span { 
-	color:white;
-}
 input::-moz-focus-inner {
   border: 0;
 }
